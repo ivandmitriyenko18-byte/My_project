@@ -19,7 +19,8 @@
 </head>
 <body>
   <header>
-    <img src="photo.jpg" alt="Фотография Данияра Хайдарова">
+    <img src="![Uploading O8xr9UHwbFAWDEwW3bGLOqURY-SYmWECMTeNbKqeRMBmw_Wx4Vj-gK_uD6DKhCC10EM9aP2D6A8u1NzF5TedW2Yc.jpg…]()
+" alt="Фотография Данияра Хайдарова">
     <h1>Данияр Хайдаров</h1>
     <p>Начинающий веб-разработчик</p>
   </header>
