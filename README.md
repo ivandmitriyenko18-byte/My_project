@@ -19,8 +19,8 @@
 </head>
 <body>
   <header>
-    <img src="![Uploading O8xr9UHwbFAWDEwW3bGLOqURY-SYmWECMTeNbKqeRMBmw_Wx4Vj-gK_uD6DKhCC10EM9aP2D6A8u1NzF5TedW2Yc.jpg…]()
-" alt="Фотография Данияра Хайдарова">
+    <img src="<img width="735" height="579" alt="O8xr9UHwbFAWDEwW3bGLOqURY-SYmWECMTeNbKqeRMBmw_Wx4Vj-gK_uD6DKhCC10EM9aP2D6A8u1NzF5TedW2Yc" src="https://github.com/user-attachments/assets/3d4ab9a9-d61e-4ddb-97c2-854581ce7418" />
+" alt=Uploading O8xr9UHwbFAWDEwW3bGLOqURY-SYmWECMTeNbKqeRMBmw_Wx4Vj-gK_uD6DKhCC10EM9aP2D6A8u1NzF5TedW2Yc.jpg>
     <h1>Данияр Хайдаров</h1>
     <p>Начинающий веб-разработчик</p>
   </header>
